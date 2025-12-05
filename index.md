@@ -10,3 +10,6 @@
 > the algorithms will almost always be self-evident.
 > Data structures, not algorithms, are central to programming.  
 > **Rob Pike**
+
+* [Introduction](introduction)
+
