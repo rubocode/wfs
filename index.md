@@ -10,4 +10,6 @@
 > **Buckminster Fuller**
 
 * [Introduction](introduction)
+* [Ramifications](ramifications)
 * [Structure](structure)
+* [Terminology](terminology)

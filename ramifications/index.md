@@ -1,0 +1,11 @@
+> [home](../)
+
+![banner](/wfs/photos/banner.png)
+
+## Ramifications
+
+> If you would be a real seeker after truth,
+> it is necessary that at least once in your life you doubt,
+> as far as possible, all things.  
+> **René Descartes**
+
