@@ -35,7 +35,7 @@ a tree of smaller clusters of knowledge.
 A cluster of knowledge has a _root_ or a _handle_.
 Any arbitrary graph of knowledge can be considered a cluster when you give
 the cluster a _name_ — an _access point_ — which becomes its _root_.
-Any given system can be defined in terms of:
+Any given system can thus be defined in terms of:
 
 * Clusters of Knowledge (KCs)
 * Access Points (APs)
