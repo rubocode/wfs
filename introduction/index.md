@@ -12,7 +12,7 @@
 
 Here we take the perspective that any given system system is
 a cluster of intelligence that can be meaningfully sliced into
-smaller clusters of intelligence (**IC**s).
+smaller clusters of intelligence (**IC**s &#x1F609;).
 It helps if you have already had a look at [cdi&trade;](/cdi).
 
 We also take the perspective that both data and algorithms are
