@@ -24,7 +24,8 @@ is a cluster of knowledge.
 
 We can now see clearly that both data and algorithms are ultimately knowledge and
 are readily represented as data.
-A _processor_ is the only thing that distinguishes between _data_ and _algotrithms_.
+A _processor_ is the only thing that distinguishes between _data_ and _algotrithms_
+and brings _action_ to _life_ inside a computer.
 For humans, everything is just knowledge — to be sure, just data.
 
 The most fundamental and universal data structure is a tree.
