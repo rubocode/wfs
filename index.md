@@ -1,4 +1,5 @@
-> [home](/specs)
+> [home](/)
+> &bull; [specs](/specs)
 
 ![banner](/wfs/photos/banner.png)
 
