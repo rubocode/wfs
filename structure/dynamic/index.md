@@ -1,6 +1,6 @@
 > [structure](../)
 
-![banner](/wfs/photos/anner.png)
+![banner](/wfs/photos/banner.png)
 
 ## Dynamic Structure
 
