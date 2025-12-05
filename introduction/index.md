@@ -41,6 +41,7 @@ Any given system can be defined in terms of:
 
 > The astute observer may have realized that we are simply speaking of _RAM_
 > and _pointers_.
+> Metaphorically, this is just a folder structure and pathnames.
 
 A well-factored system is an organized breakdown of a resilient factoring of
 system functionality driven by two principles:
