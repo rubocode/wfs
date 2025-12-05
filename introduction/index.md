@@ -36,8 +36,8 @@ Any arbitrary graph of knowledge can be considered a cluster when you give
 the cluster a _name_ — an _access point_ — which becomes its _root_.
 Any given system can be defined in terms of:
 
-* Micro Clusters of Knowledge (KCs)
-* Cluster Access Points (APs)
+* Clusters of Knowledge (KCs)
+* Access Points (APs)
 
 > The astute observer may have realized that we are simply speaking of _RAM_
 > and _pointers_.
