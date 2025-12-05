@@ -4,9 +4,11 @@
 
 ## Introduction
 
-> You never change things by fighting the existing reality.
-> To change something, build a new model that makes the existing model obsolete.  
-> **Buckminster Fuller**
+> Data dominates.
+> If you've chosen the right data structures and organized things well,
+> the algorithms will almost always be self-evident.
+> Data structures, not algorithms, are central to programming.  
+> **Rob Pike**
 
 Here we take the perspective that any given system system is
 a cluster of intelligence that can be meaningfully sliced into

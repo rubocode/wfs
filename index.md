@@ -5,11 +5,9 @@
 
 ## Well-Factored Systems&trade;
 
-> Data dominates.
-> If you've chosen the right data structures and organized things well,
-> the algorithms will almost always be self-evident.
-> Data structures, not algorithms, are central to programming.  
-> **Rob Pike**
+> You never change things by fighting the existing reality.
+> To change something, build a new model that makes the existing model obsolete.  
+> **Buckminster Fuller**
 
 * [Introduction](introduction)
 
