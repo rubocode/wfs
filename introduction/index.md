@@ -19,7 +19,8 @@ Thus an integer is a piece of knowledge.
 The algorithm to add two integers together is also a piece of knowledge.
 Thus a class _number_ that contains an integer and the manipulations thereof
 is a cluster of knowledge.
-Now we can observe that both data and algorithms are ultimately knowledge and
+
+We can now see clearly that both data and algorithms are ultimately knowledge and
 are readily represented as data.
 A _processor_ is the only thing that distinguishes between _data_ and _algotrithms_.
 For humans, everything is just knowledge.
