@@ -11,7 +11,7 @@
 Here we take the perspective that any given system system is
 a cluster of intelligence that can be meaningfully sliced into
 smaller clusters of intelligence.
-It helps if you have already had a look at [cdi&trade;].
+It helps if you have already had a look at [cdi&trade;](/cdi).
 
 We also take the perspective that both data and algorithms are
 pieces of intelligence that can be captured inside a computational system as knowledge.
@@ -37,14 +37,14 @@ Any arbitrary graph of knowledge can be considered a cluster when you give
 the cluster a _name_ — an _access point_ — which becomes its _root_.
 Any given system can be defined in terms of:
 
-* Micro Clusters of Knowledge (***KC***s)
-* Cluster Access Points (***AP***s)
+* Micro Clusters of Knowledge (**KC**s)
+* Cluster Access Points (**AP**s)
 
 A well-factored system is an organized breakdown of a resilient factoring of
 system functionality driven by two principles:
 
-* Single Responsibility Principle (***SRP***)
-* Don't Repeat Yourself (***DRY***)
+* Single Responsibility Principle (**SRP**)
+* Don't Repeat Yourself (**DRY**)
 
-Inside this _KC_ called [_wfs&trade;_](/wfs), we explore the ramifications of
+Inside this **KC** called [wfs&trade;](/wfs), we explore the ramifications of
 this perspective.
