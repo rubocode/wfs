@@ -10,4 +10,4 @@
 > **Buckminster Fuller**
 
 * [Introduction](introduction)
-
+* [Structure](structure)
