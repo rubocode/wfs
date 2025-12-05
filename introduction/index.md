@@ -36,18 +36,19 @@ Any arbitrary graph of knowledge can be considered a cluster when you give
 the cluster a _name_ — an _access point_ — which becomes its _root_.
 Any given system can be defined in terms of:
 
-* Micro Clusters of Knowledge (**KC**s)
-* Cluster Access Points (**AP**s)
+* Micro Clusters of Knowledge (KCs)
+* Cluster Access Points (APs)
 
 > The astute observer may have realized that we are simply speaking of _RAM_
 > and _pointers_.
 > Metaphorically, this is just a folder structure and pathnames.
+> Now, imagine a _golang_ source tree.
 
 A well-factored system is an organized breakdown of a resilient factoring of
 system functionality driven by two principles:
 
-* Single Responsibility Principle (**SRP**)
-* Don't Repeat Yourself (**DRY**)
+* Single Responsibility Principle (SRP)
+* Don't Repeat Yourself (DRY)
 
-Inside this **KC** called [wfs&trade;](/wfs), we explore the ramifications of
+Inside this _KC_ called [wfs&trade;](/wfs), we explore the ramifications of
 this perspective.
