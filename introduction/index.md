@@ -29,8 +29,7 @@ Any arbitrary cluster of knowledge can be captured into
 a tree of smaller clusters of knowledge.
 
 > Designing a system thus becomes the discipline of
-> organizing clusters of knowledge.
-> Ultimaltely, it is an exercise in knowledge management.
+> organizing clusters of knowledge — an exercise in knowledge management.
 
 A cluster of knowledge has a _root_ or a _handle_.
 Any arbitrary graph of knowledge can be considered a cluster when you give
@@ -39,6 +38,9 @@ Any given system can be defined in terms of:
 
 * Micro Clusters of Knowledge (**KC**s)
 * Cluster Access Points (**AP**s)
+
+> The astute observer may have realized that we are simply speaking of _RAM_
+> and _pointers_.
 
 A well-factored system is an organized breakdown of a resilient factoring of
 system functionality driven by two principles:
