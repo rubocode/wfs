@@ -29,7 +29,8 @@ Any arbitrary cluster of knowledge can be captured into
 a tree of smaller clusters of knowledge.
 
 > Designing a system thus becomes the discipline of
-> organizing clusters of knowledge — an exercise in knowledge management.
+> organizing clusters of knowledge — an exercise in knowledge management
+> using microservices.
 
 A cluster of knowledge has a _root_ or a _handle_.
 Any arbitrary graph of knowledge can be considered a cluster when you give
